@@ -7,6 +7,8 @@ win_height = 500
 window = display.set_mode((win_height,win_height))
 window.fill(back)
 
+a = 1000
+
 clock = time.Clock()
 FPS = 60
 game = True
